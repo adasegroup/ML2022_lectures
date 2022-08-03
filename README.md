@@ -1,5 +1,5 @@
 # ML2022_lectures
-This is a repository containing the lectures for the Skoltech's Machine Learning course (MA060018), which is held at Term 3, 2022.
+This is a repository containing the lectures for the Machine Learning course (MA060018), which is held at Term 3, 2022.
 
 ## The list of the current lectures published (will be updated with time):
 * LECTURE 1 (01.02) - Intro, ML problem, Supervised learning
@@ -26,4 +26,4 @@ On completion of the course students are expected to:
 The seminars of the course can accessed via the [link](https://github.com/adasegroup/ML2022_seminars).
 
 ## Contact regarding this github repo:
-If you have any questions/suggestions regarding this githup repository or have found any bugs, please write to me at Nina.Mazyavkina@skoltech.ru 
+If you have any questions/suggestions regarding this githup repository or have found any bugs, please write to me at Nina.Mazyavkina
